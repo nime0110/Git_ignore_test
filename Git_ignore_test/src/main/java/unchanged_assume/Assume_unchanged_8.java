@@ -30,6 +30,8 @@ public class Assume_unchanged_8 {
 	*/
 		System.out.println("==== Assume_unchanged_8.java 파일입니다. ===="); 
 		System.out.println("==== Assume_unchanged_8.java 파일 내용 변경 ===="); 
+		System.out.println("==== Assume_unchanged_8.java 파일 2차 수정 ===="); 
+		System.out.println("==== Assume_unchanged_8.java 파일 마지막 완료 ===="); 
 
 	}
 
